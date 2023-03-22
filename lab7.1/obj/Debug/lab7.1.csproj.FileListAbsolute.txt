@@ -1,0 +1,11 @@
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Class 15 - 21032023\lab7.1\bin\Debug\lab7.1.exe.config
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Class 15 - 21032023\lab7.1\bin\Debug\lab7.1.exe
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Class 15 - 21032023\lab7.1\bin\Debug\lab7.1.pdb
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Class 15 - 21032023\lab7.1\obj\Debug\lab7.1.csproj.AssemblyReference.cache
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Class 15 - 21032023\lab7.1\obj\Debug\lab7.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Class 15 - 21032023\lab7.1\obj\Debug\lab7._1.Form1.resources
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Class 15 - 21032023\lab7.1\obj\Debug\lab7._1.Properties.Resources.resources
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Class 15 - 21032023\lab7.1\obj\Debug\lab7.1.csproj.GenerateResource.cache
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Class 15 - 21032023\lab7.1\obj\Debug\lab7.1.csproj.CoreCompileInputs.cache
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Class 15 - 21032023\lab7.1\obj\Debug\lab7.1.exe
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Class 15 - 21032023\lab7.1\obj\Debug\lab7.1.pdb
